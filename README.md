@@ -1,20 +1,37 @@
+##Key Features of the  Real Estate Website.
 
 •	Admin Panel.
+
 •	User Management.
+
 •	Property Listing Management.
+
 •	Blog Management System.
+
 •	Agent Registration and Login.
+
 •	Client Registration and Login.
+
 •	Add Location Coordinates.
+
 •	Advanced Property Search and Filters.
+
 •	Enquiry system.
+
 •	User Property Ratings and Reviews.
+
 •	Comment and Reply System.
+
 •	Image Gallery Management.
+
 •	Slider/Image Banner Management.
+
 •	Website Settings Control.
+
 •	Service and Testimonial Management.
+
 •	Dashboard Stats.
+
 •	Message Notification System.
 
 Installing Tools.
