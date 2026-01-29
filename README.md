@@ -33,28 +33,55 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-### Premium Partners
+###Key Features of the  Real Estate Website
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+•	Admin Panel
+•	User Management
+•	Property Listing Management
+•	Blog Management System
+•	Agent Registration and Login
+•	Client Registration and Login
+•	Add Location Coordinates
+•	Advanced Property Search and Filters
+•	Enquiry system
+•	User Property Ratings and Reviews
+•	Comment and Reply System
+•	Image Gallery Management
+•	Slider/Image Banner Management
+•	Website Settings Control
+•	Service and Testimonial Management
+•	Dashboard Stats
+•	Message Notification System
 
-## Contributing
+Installing Tools
+VS CODE
+XAMPP/WAMPP
+LARAVEL
+COMPOSER
+PHP
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+## IMPOTANT NOTE
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+First, make sure you have Composer installed on your system. For Laravel projects, PHP Version 7 or higher is required as older versions are not compatible with Composer. As a result, you’ll need to manage your PHP version (only if you’re using the old version) at the moment.
 
-## Security Vulnerabilities
+## Instructions: How to Run?
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+•	After you finish downloading the project, unzip the project file.
+•	Open the project folder, check for the env file, and update the database credentials as needed (DB name, username, password)
+•	Create a MySQL database with the name defined in the env file.
+•	Then, open the project in the Terminal or Command Prompt.
+•	Install the composer dependencies: composer install
+•	For the database, you can run the migration files to create a new one following the command lines.
+•	Migrate the tables: php artisan migrate
+•	Run seeder: php artisan db:seed
+•	Then generate the key: php artisan key:generate
+•	Create a symbolic link to the storage folder: php artisan storage:link
+•	And finally, run the project: php artisan serve
+•	It will start the application and give you a URL.
+•	At last, open the URL in your preferred browser; we recommend using Google Chrome for the best performance.
+•	All the login details are provided in the text files inside the project folder. Check them and enter them to use it.
+
 
 ## License
 
